@@ -1,0 +1,16 @@
+<resources>
+    <style name="Theme.TgWsProxy" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/proxy_blue</item>
+        <item name="colorPrimaryVariant">@color/proxy_blue_dark</item>
+        <item name="colorSecondary">@color/proxy_blue</item>
+        <item name="colorSurface">@color/proxy_surface</item>
+        <item name="colorOnPrimary">@color/proxy_on_primary</item>
+        <item name="colorOnSurface">@color/proxy_text_primary</item>
+        <item name="android:textColorPrimary">@color/proxy_text_primary</item>
+        <item name="android:textColorSecondary">@color/proxy_text_secondary</item>
+        <item name="android:textColorHint">@color/proxy_text_hint</item>
+        <item name="android:statusBarColor">@color/proxy_blue_dark</item>
+        <item name="android:windowBackground">@color/proxy_surface</item>
+        <item name="android:colorBackground">@color/proxy_surface</item>
+    </style>
+</resources>

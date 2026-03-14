@@ -1,0 +1,10 @@
+<resources>
+    <color name="proxy_blue">#1976D2</color>
+    <color name="proxy_blue_dark">#0D47A1</color>
+    <color name="proxy_surface">#F6F7F9</color>
+    <color name="proxy_input_surface">#FFFFFF</color>
+    <color name="proxy_text_primary">#111827</color>
+    <color name="proxy_text_secondary">#4B5563</color>
+    <color name="proxy_text_hint">#8A9199</color>
+    <color name="proxy_on_primary">#FFFFFF</color>
+</resources>

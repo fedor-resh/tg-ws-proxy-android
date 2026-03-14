@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TG WS Proxy</string>
+    <string name="title_main">TG WS Proxy for Android</string>
+    <string name="subtitle_main">Локальный SOCKS5-прокси, который пробрасывает Telegram DC-трафик через WebSocket и при необходимости падает обратно на прямой TCP.</string>
+    <string name="label_host">IP адрес локального прокси</string>
+    <string name="label_port">Порт</string>
+    <string name="label_dc_ip">DC -> IP маппинги, по одному на строку</string>
+    <string name="label_verbose">Подробное логирование</string>
+    <string name="action_start">Запустить</string>
+    <string name="action_stop">Остановить</string>
+    <string name="action_instructions">Инструкция для Telegram</string>
+    <string name="action_open_in_telegram">Добавить в Telegram</string>
+    <string name="action_logs">Показать лог</string>
+    <string name="action_copy_logs">Копировать лог</string>
+    <string name="status_running">Статус: прокси запущен</string>
+    <string name="status_stopped">Статус: прокси остановлен</string>
+    <string name="footer_note">MVP: сначала проверьте на устройстве, что Telegram Android реально использует SOCKS5 на 127.0.0.1 другого приложения.</string>
+    <string name="logs_copied">Лог скопирован в буфер обмена</string>
+    <string name="telegram_opening">Открываю Telegram</string>
+    <string name="telegram_not_found_title">Telegram не найден</string>
+    <string name="telegram_not_found_message">Ссылка на прокси скопирована в буфер обмена:\n\n%1$s</string>
+</resources>
